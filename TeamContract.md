@@ -18,44 +18,41 @@ This contract sets out shared expectations and commitments for how our team will
 
 ### Communication
 
-* Which platform will you use for communication outside of class, when required for work on your course project? (Examples: Text message, Discord, WeChat, etc.)
-We will use Discord.
+* Which platform will you use for communication outside of class, when required for work on your course project? 
+  * Discord
 
 * Each teammate agrees to respond to messages in at most how long? 1 day? 2 days? Some other amount of time? 
-24 hours.
+  * 24 hours
 
-* What things should a teammate notify you about? (Examples: if they think they won't be able to meet a deadline, if they have to miss lecture, etc.)
-Availability, missing a deadline, general questions
-
-* Respectful and inclusive behaviour are necessary for smooth and productive communication. What are some respectful and inclusive behaviours you expect when communicating with each other during lectures, labs, or outside of class? (Examples: Actively listening to each team members ideas, giving everyone a chance to meaningfully contribute, etc.)
-Be nice to each other, be willing to ask questions, better to ask each other
+* What things should a teammate notify you about?
+  * Availability, missing a deadline, general questions about assignment.
+* Respectful and inclusive behaviour are necessary for smooth and productive communication. What are some respectful and inclusive behaviours you expect when communicating with each other during lectures, labs, or outside of class?
+  * Be nice, feel free to ask stupid questions.
 
 ---
 
 ### [Other Categories of norms and expectations go here]
 
 * Based on your previous teamwork experiences, what other behaviours do you agree upon as a team?
-    - some examples of possible additional team norms and expectations are included in the sample team contract in case your team needs some help getting ideas for what else you want to include.
-Be helpful
-
+    - Be helpful
 ---
 
 ## Decision Making
 
-* How will decisions about your team project be made? (Examples: By majority vote, by unanimous vote, etc.)
-For a small decision, just ask each other, we debate until we get a majority
+* How will decisions about your team project be made?
+  * Vote, debate until we get a majority.
 
 ---
 ## Conflict resolution
 
-* How will your team resolve conflicts? (Example: by listening to each other's side of the issue and attempting to reach a compromise. By consulting a TA or instructor as a team, if a resolution has not yet been reached.)
-
+* How will your team resolve conflicts?
+  * Respect the voting process, if the team decides something you don't like, it's nothing personal.
 ---
 
 ## Accountability
 
-* Reliability and accountability are also important aspects of teamwork. What are the responsibilities of each team member? (Example: completing their share of the work in a timely manner, seeking assistance from teammates/TAs/instructors when required, etc.)
-Communication
+* Reliability and accountability are also important aspects of teamwork. What are the responsibilities of each team member?
+  * Communication is key. 
 
 ---
 
@@ -65,3 +62,4 @@ By signing below, we acknowledge that we have read, discussed, and agreed to the
 
 Team Member Signatures:
 
+Randal Baumer, Nicholas Zhang, Gordon Wei
