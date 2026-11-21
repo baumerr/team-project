@@ -12,12 +12,10 @@ public class Routine {
         if (id == null || id.isBlank()) {
             throw new IllegalArgumentException("Routine ID cannot be blank.");
         }
-        if (name == null || name.isBlank()) {
-            throw new IllegalArgumentException("Routine Name cannot be blank.");
-        }
 
         this.id = id;
-        this.name = name;
+        setName(name);
+
         this.exercises = new ArrayList<>();
     }
 
